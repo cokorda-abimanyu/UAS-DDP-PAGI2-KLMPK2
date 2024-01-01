@@ -1,7 +1,7 @@
 ## Project UAS DDP Resep Makanan
 
 Repository ini berisi program resep makanan yang memiliki fitur untuk menambahkan resep baru, mencari data resep, dan menghapus data resep. 
-Program ini dibuat untuk memenuhi project UAS DDP
+Program ini dibuat untuk memenuhi project UAS DDP Primakara University
 
 
 **Nama Anggota :**
