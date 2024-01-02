@@ -5,6 +5,6 @@ Program ini dibuat untuk memenuhi project UAS DDP Primakara University
 
 
 **Nama Anggota :**
-- Cok Gede Abimanyu Pradnyana Putra (2301010055)
+- Cok Gde Abimanyu Pradnyana Putra (2301010055)
 - Komang Dio Aseh Arifianto (2301010053)
 - Harsa Dewi Aldora Ananta (2301010034)
